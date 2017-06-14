@@ -1,0 +1,1 @@
+<bean id="customEditorAreaLogicHandler" class="backoffice.customization.CustomEditorAreaLogicHandler" parent="defaultEditorAreaLogicHandler"/>
