@@ -1,4 +1,4 @@
-# hyrbis ng cockpit :  
+# hybris ng cockpit :  
  - Advanced customization 
 
 
